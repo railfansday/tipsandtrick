@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-21T09:56:10.731929",
-  "totalArticles": 171,
+  "generatedAt": "2026-11-21T18:44:04.051989",
+  "totalArticles": 178,
   "categoryBreakdown": {
-    "General": 169,
+    "General": 176,
     "Business & Policy": 2
   },
   "topSources": {
     "Remodelista": 40,
     "Witanddelight": 35,
-    "Houzz": 30,
-    "Apartmenttherapy": 20,
+    "Houzz": 32,
+    "Apartmenttherapy": 25,
     "Chrislovesjulia": 12,
     "Jenniferrizzo": 10,
     "Stylebyemilyhenderson": 10,
@@ -17,6 +17,48 @@
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
+    {
+      "id": 178,
+      "title": "She Put a Coffee Table in Her Kitchen, and It Made Hosting Easier",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/she-put-a-coffee-table-in-her-kitchen-and-it-made-hosting-easier-178.html",
+      "category": "General"
+    },
+    {
+      "id": 177,
+      "title": "Designers Say These 5 Items Add Polish Into Any Living Room",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/designers-say-these-5-items-add-polish-into-any-living-room-177.html",
+      "category": "General"
+    },
+    {
+      "id": 176,
+      "title": "My Dad’s Bathroom Hosting Rule Avoids Awkward Moments During the Holidays",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/my-dads-bathroom-hosting-rule-avoids-awkward-moments-during-the-h-176.html",
+      "category": "General"
+    },
+    {
+      "id": 175,
+      "title": "This Holiday Decor Collection Is So Chic, I’d Leave It Up Through January",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-holiday-decor-collection-is-so-chic-id-leave-it-up-through-j-175.html",
+      "category": "General"
+    },
+    {
+      "id": 174,
+      "title": "How to Get Your Garden and Other Outdoor Spaces Ready for Winter (13 photos)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/how-to-get-your-garden-and-other-outdoor-spaces-ready-for-winter--174.html",
+      "category": "General"
+    },
+    {
+      "id": 173,
+      "title": "Tech Report: 10 Things to Enhance Your Powder Room for the Holidays or Anytime (10 photos)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-10-things-to-enhance-your-powder-room-for-the-holiday-173.html",
+      "category": "General"
+    },
+    {
+      "id": 172,
+      "title": "This DIY Hack Makes a Lazy Susan Out of Anything",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-diy-hack-makes-a-lazy-susan-out-of-anything-172.html",
+      "category": "General"
+    },
     {
       "id": 171,
       "title": "Tech Report: 10 Easy Pieces: Wall-Mounted Wooden Plate Racks",
@@ -33,48 +75,6 @@
       "id": 169,
       "title": "Kitchen of the Week: Fieldstone and Oak on an Island in Ontario",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/kitchen-of-the-week-fieldstone-and-oak-on-an-island-in-ontario-169.html",
-      "category": "General"
-    },
-    {
-      "id": 168,
-      "title": "Breaking: New & Noteworthy: Colorblock Lights from Ravenhill (with an Interesting Backstory)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-new-noteworthy-colorblock-lights-from-ravenhill-with-an--168.html",
-      "category": "General"
-    },
-    {
-      "id": 167,
-      "title": "Industry News: A Continuous Green Thread: The Newly introduced Fantastic Frank Headquarters in Stockholm",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-a-continuous-green-thread-the-newly-introduced-fant-167.html",
-      "category": "General"
-    },
-    {
-      "id": 166,
-      "title": "Tech Report: Current Obsessions: Simple and Great",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-current-obsessions-simple-and-great-166.html",
-      "category": "General"
-    },
-    {
-      "id": 165,
-      "title": "Psst…What We Loved this October",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/psstwhat-we-loved-this-october-165.html",
-      "category": "General"
-    },
-    {
-      "id": 164,
-      "title": "Tech Report: In the Stillness: A 1640s Georgian in an Affecting Palette by Cassandra Ellis",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-in-the-stillness-a-1640s-georgian-in-an-affecting-pal-164.html",
-      "category": "General"
-    },
-    {
-      "id": 163,
-      "title": "Design Detail: A Poetic “Shroud” to Hide the TV",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/design-detail-a-poetic-shroud-to-hide-the-tv-163.html",
-      "category": "General"
-    },
-    {
-      "id": 162,
-      "title": "Remodelista Reconnaissance: Back-of-the-Seat Book Boxes at Cremer in London",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/remodelista-reconnaissance-back-of-the-seat-book-boxes-at-cremer--162.html",
       "category": "General"
     }
   ]
