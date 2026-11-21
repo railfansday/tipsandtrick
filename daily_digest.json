@@ -1,0 +1,81 @@
+{
+  "generatedAt": "2026-11-21T09:56:10.731929",
+  "totalArticles": 171,
+  "categoryBreakdown": {
+    "General": 169,
+    "Business & Policy": 2
+  },
+  "topSources": {
+    "Remodelista": 40,
+    "Witanddelight": 35,
+    "Houzz": 30,
+    "Apartmenttherapy": 20,
+    "Chrislovesjulia": 12,
+    "Jenniferrizzo": 10,
+    "Stylebyemilyhenderson": 10,
+    "Themakerista": 10,
+    "Jacquelynclark": 4
+  },
+  "latestHeadlines": [
+    {
+      "id": 171,
+      "title": "Tech Report: 10 Easy Pieces: Wall-Mounted Wooden Plate Racks",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-10-easy-pieces-wall-mounted-wooden-plate-racks-171.html",
+      "category": "General"
+    },
+    {
+      "id": 170,
+      "title": "Renovation Diaries: The House Envelope and Other Lessons in Efficiency",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/renovation-diaries-the-house-envelope-and-other-lessons-in-effici-170.html",
+      "category": "General"
+    },
+    {
+      "id": 169,
+      "title": "Kitchen of the Week: Fieldstone and Oak on an Island in Ontario",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/kitchen-of-the-week-fieldstone-and-oak-on-an-island-in-ontario-169.html",
+      "category": "General"
+    },
+    {
+      "id": 168,
+      "title": "Breaking: New & Noteworthy: Colorblock Lights from Ravenhill (with an Interesting Backstory)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-new-noteworthy-colorblock-lights-from-ravenhill-with-an--168.html",
+      "category": "General"
+    },
+    {
+      "id": 167,
+      "title": "Industry News: A Continuous Green Thread: The Newly introduced Fantastic Frank Headquarters in Stockholm",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-a-continuous-green-thread-the-newly-introduced-fant-167.html",
+      "category": "General"
+    },
+    {
+      "id": 166,
+      "title": "Tech Report: Current Obsessions: Simple and Great",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-current-obsessions-simple-and-great-166.html",
+      "category": "General"
+    },
+    {
+      "id": 165,
+      "title": "Psst…What We Loved this October",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/psstwhat-we-loved-this-october-165.html",
+      "category": "General"
+    },
+    {
+      "id": 164,
+      "title": "Tech Report: In the Stillness: A 1640s Georgian in an Affecting Palette by Cassandra Ellis",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-in-the-stillness-a-1640s-georgian-in-an-affecting-pal-164.html",
+      "category": "General"
+    },
+    {
+      "id": 163,
+      "title": "Design Detail: A Poetic “Shroud” to Hide the TV",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/design-detail-a-poetic-shroud-to-hide-the-tv-163.html",
+      "category": "General"
+    },
+    {
+      "id": 162,
+      "title": "Remodelista Reconnaissance: Back-of-the-Seat Book Boxes at Cremer in London",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/remodelista-reconnaissance-back-of-the-seat-book-boxes-at-cremer--162.html",
+      "category": "General"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://railfansday.github.io/tipsandtrick/sitemap.xml
+Sitemap: https://railfansday.github.io/tipsandtrick/feed.xml
+Sitemap: https://railfansday.github.io/tipsandtrick/atom.xml
+Crawl-delay: 1
