@@ -1,22 +1,64 @@
 {
-  "generatedAt": "2026-11-22T05:14:06.318271",
-  "totalArticles": 183,
+  "generatedAt": "2026-11-22T14:05:46.249121",
+  "totalArticles": 190,
   "categoryBreakdown": {
-    "General": 181,
+    "General": 188,
     "Business & Policy": 2
   },
   "topSources": {
-    "Remodelista": 40,
+    "Remodelista": 41,
     "Witanddelight": 35,
-    "Houzz": 32,
-    "Apartmenttherapy": 30,
+    "Houzz": 34,
+    "Apartmenttherapy": 33,
     "Chrislovesjulia": 12,
+    "Stylebyemilyhenderson": 11,
     "Jenniferrizzo": 10,
-    "Stylebyemilyhenderson": 10,
     "Themakerista": 10,
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
+    {
+      "id": 190,
+      "title": "Industry News: My “Super Plush” Bathroom Gem Made It onto Oprah’s Favorite Things (It’s the Perfect Luxe Gift!)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-my-super-plush-bathroom-gem-made-it-onto-oprahs-fav-190.html",
+      "category": "General"
+    },
+    {
+      "id": 189,
+      "title": "Tech Report: Psst…What We Loved this November",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-psstwhat-we-loved-this-november-189.html",
+      "category": "General"
+    },
+    {
+      "id": 188,
+      "title": "15 Bright and Welcoming Front Entries in Beige, Wood and White (15 photos)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/15-bright-and-welcoming-front-entries-in-beige-wood-and-white-15--188.html",
+      "category": "General"
+    },
+    {
+      "id": 187,
+      "title": "Tech Report: Pink Paint Refreshed a Kitchen’s “Generic” Veneered Cabinets",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-pink-paint-refreshed-a-kitchens-generic-veneered-cabi-187.html",
+      "category": "General"
+    },
+    {
+      "id": 186,
+      "title": "Before and After: 5 Living Areas With Stylish Fireplaces (11 photos)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/before-and-after-5-living-areas-with-stylish-fireplaces-11-photos-186.html",
+      "category": "General"
+    },
+    {
+      "id": 185,
+      "title": "Tech Report: The Link Up: The Substack About The Hendersons Adopting Kittens, Mal’s Pottery Barn Picture Frame Dupe, And A Perfect Winter Top",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-the-link-up-the-substack-about-the-hendersons-adoptin-185.html",
+      "category": "General"
+    },
+    {
+      "id": 184,
+      "title": "This Sleek Sofa Seats 5 in My Tiny Living Room (It's Modular!)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-sleek-sofa-seats-5-in-my-tiny-living-room-its-modular-184.html",
+      "category": "General"
+    },
     {
       "id": 183,
       "title": "Industry News: “Shine-Maxxing” Is Still Happening, and This Trend Forecast Proves It",
@@ -33,48 +75,6 @@
       "id": 181,
       "title": "Latest Update: The 6 Things Luxury Designers Always Look For at HomeGoods",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-the-6-things-luxury-designers-always-look-for-at-ho-181.html",
-      "category": "General"
-    },
-    {
-      "id": 180,
-      "title": "A Room with Chocolate Brown Walls and Minimal Warmth Is Now a Storybook-Inspired Retreat",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/a-room-with-chocolate-brown-walls-and-minimal-warmth-is-now-a-sto-180.html",
-      "category": "General"
-    },
-    {
-      "id": 179,
-      "title": "Stop Folding — Nate Berkus’ Nifty “Brick” Method for Throw Blankets Is Way Better",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/stop-folding-nate-berkus-nifty-brick-method-for-throw-blankets-is-179.html",
-      "category": "General"
-    },
-    {
-      "id": 178,
-      "title": "She Put a Coffee Table in Her Kitchen, and It Made Hosting Easier",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/she-put-a-coffee-table-in-her-kitchen-and-it-made-hosting-easier-178.html",
-      "category": "General"
-    },
-    {
-      "id": 177,
-      "title": "Designers Say These 5 Items Add Polish Into Any Living Room",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/designers-say-these-5-items-add-polish-into-any-living-room-177.html",
-      "category": "General"
-    },
-    {
-      "id": 176,
-      "title": "My Dad’s Bathroom Hosting Rule Avoids Awkward Moments During the Holidays",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/my-dads-bathroom-hosting-rule-avoids-awkward-moments-during-the-h-176.html",
-      "category": "General"
-    },
-    {
-      "id": 175,
-      "title": "This Holiday Decor Collection Is So Chic, I’d Leave It Up Through January",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-holiday-decor-collection-is-so-chic-id-leave-it-up-through-j-175.html",
-      "category": "General"
-    },
-    {
-      "id": 174,
-      "title": "How to Get Your Garden and Other Outdoor Spaces Ready for Winter (13 photos)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/how-to-get-your-garden-and-other-outdoor-spaces-ready-for-winter--174.html",
       "category": "General"
     }
   ]
