@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-22T14:05:46.249121",
-  "totalArticles": 190,
+  "generatedAt": "2026-11-22T23:16:16.125643",
+  "totalArticles": 195,
   "categoryBreakdown": {
-    "General": 188,
+    "General": 193,
     "Business & Policy": 2
   },
   "topSources": {
     "Remodelista": 41,
+    "Apartmenttherapy": 38,
     "Witanddelight": 35,
     "Houzz": 34,
-    "Apartmenttherapy": 33,
     "Chrislovesjulia": 12,
     "Stylebyemilyhenderson": 11,
     "Jenniferrizzo": 10,
@@ -17,6 +17,36 @@
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
+    {
+      "id": 195,
+      "title": "Tech Report: 7 Things to Get Rid Of at 90, According to My Grandma",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-7-things-to-get-rid-of-at-90-according-to-my-grandma-195.html",
+      "category": "General"
+    },
+    {
+      "id": 194,
+      "title": "She Didn’t Have Room for a Nightstand — This Overlooked Feature Was a Great Alt",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/she-didnt-have-room-for-a-nightstand-this-overlooked-feature-was--194.html",
+      "category": "General"
+    },
+    {
+      "id": 193,
+      "title": "Tech Report: Why Your “Timeless” Home Looks Boring (and What to Do Instead)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-why-your-timeless-home-looks-boring-and-what-to-do-in-193.html",
+      "category": "General"
+    },
+    {
+      "id": 192,
+      "title": "Latest Update: My Mom's \"Yellow Legal Pad\" Rule Makes Hosting So Easy",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-my-moms-yellow-legal-pad-rule-makes-hosting-so-easy-192.html",
+      "category": "General"
+    },
+    {
+      "id": 191,
+      "title": "Trader Joe’s Dropped the Cutest Holiday Decor (This Garland Will Sell Out!)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/trader-joes-dropped-the-cutest-holiday-decor-this-garland-will-se-191.html",
+      "category": "General"
+    },
     {
       "id": 190,
       "title": "Industry News: My “Super Plush” Bathroom Gem Made It onto Oprah’s Favorite Things (It’s the Perfect Luxe Gift!)",
@@ -45,36 +75,6 @@
       "id": 186,
       "title": "Before and After: 5 Living Areas With Stylish Fireplaces (11 photos)",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/before-and-after-5-living-areas-with-stylish-fireplaces-11-photos-186.html",
-      "category": "General"
-    },
-    {
-      "id": 185,
-      "title": "Tech Report: The Link Up: The Substack About The Hendersons Adopting Kittens, Mal’s Pottery Barn Picture Frame Dupe, And A Perfect Winter Top",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-the-link-up-the-substack-about-the-hendersons-adoptin-185.html",
-      "category": "General"
-    },
-    {
-      "id": 184,
-      "title": "This Sleek Sofa Seats 5 in My Tiny Living Room (It's Modular!)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-sleek-sofa-seats-5-in-my-tiny-living-room-its-modular-184.html",
-      "category": "General"
-    },
-    {
-      "id": 183,
-      "title": "Industry News: “Shine-Maxxing” Is Still Happening, and This Trend Forecast Proves It",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-shine-maxxing-is-still-happening-and-this-trend-for-183.html",
-      "category": "General"
-    },
-    {
-      "id": 182,
-      "title": "I Completely Transformed My Closet Without Getting Rid of a Single Thing Thanks to This Simple Trick",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/i-completely-transformed-my-closet-without-getting-rid-of-a-singl-182.html",
-      "category": "General"
-    },
-    {
-      "id": 181,
-      "title": "Latest Update: The 6 Things Luxury Designers Always Look For at HomeGoods",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-the-6-things-luxury-designers-always-look-for-at-ho-181.html",
       "category": "General"
     }
   ]
