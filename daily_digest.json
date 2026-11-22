@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-21T18:44:04.051989",
-  "totalArticles": 178,
+  "generatedAt": "2026-11-22T05:14:06.318271",
+  "totalArticles": 183,
   "categoryBreakdown": {
-    "General": 176,
+    "General": 181,
     "Business & Policy": 2
   },
   "topSources": {
     "Remodelista": 40,
     "Witanddelight": 35,
     "Houzz": 32,
-    "Apartmenttherapy": 25,
+    "Apartmenttherapy": 30,
     "Chrislovesjulia": 12,
     "Jenniferrizzo": 10,
     "Stylebyemilyhenderson": 10,
@@ -17,6 +17,36 @@
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
+    {
+      "id": 183,
+      "title": "Industry News: “Shine-Maxxing” Is Still Happening, and This Trend Forecast Proves It",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-shine-maxxing-is-still-happening-and-this-trend-for-183.html",
+      "category": "General"
+    },
+    {
+      "id": 182,
+      "title": "I Completely Transformed My Closet Without Getting Rid of a Single Thing Thanks to This Simple Trick",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/i-completely-transformed-my-closet-without-getting-rid-of-a-singl-182.html",
+      "category": "General"
+    },
+    {
+      "id": 181,
+      "title": "Latest Update: The 6 Things Luxury Designers Always Look For at HomeGoods",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-the-6-things-luxury-designers-always-look-for-at-ho-181.html",
+      "category": "General"
+    },
+    {
+      "id": 180,
+      "title": "A Room with Chocolate Brown Walls and Minimal Warmth Is Now a Storybook-Inspired Retreat",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/a-room-with-chocolate-brown-walls-and-minimal-warmth-is-now-a-sto-180.html",
+      "category": "General"
+    },
+    {
+      "id": 179,
+      "title": "Stop Folding — Nate Berkus’ Nifty “Brick” Method for Throw Blankets Is Way Better",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/stop-folding-nate-berkus-nifty-brick-method-for-throw-blankets-is-179.html",
+      "category": "General"
+    },
     {
       "id": 178,
       "title": "She Put a Coffee Table in Her Kitchen, and It Made Hosting Easier",
@@ -45,36 +75,6 @@
       "id": 174,
       "title": "How to Get Your Garden and Other Outdoor Spaces Ready for Winter (13 photos)",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/how-to-get-your-garden-and-other-outdoor-spaces-ready-for-winter--174.html",
-      "category": "General"
-    },
-    {
-      "id": 173,
-      "title": "Tech Report: 10 Things to Enhance Your Powder Room for the Holidays or Anytime (10 photos)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-10-things-to-enhance-your-powder-room-for-the-holiday-173.html",
-      "category": "General"
-    },
-    {
-      "id": 172,
-      "title": "This DIY Hack Makes a Lazy Susan Out of Anything",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-diy-hack-makes-a-lazy-susan-out-of-anything-172.html",
-      "category": "General"
-    },
-    {
-      "id": 171,
-      "title": "Tech Report: 10 Easy Pieces: Wall-Mounted Wooden Plate Racks",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-10-easy-pieces-wall-mounted-wooden-plate-racks-171.html",
-      "category": "General"
-    },
-    {
-      "id": 170,
-      "title": "Renovation Diaries: The House Envelope and Other Lessons in Efficiency",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/renovation-diaries-the-house-envelope-and-other-lessons-in-effici-170.html",
-      "category": "General"
-    },
-    {
-      "id": 169,
-      "title": "Kitchen of the Week: Fieldstone and Oak on an Island in Ontario",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/kitchen-of-the-week-fieldstone-and-oak-on-an-island-in-ontario-169.html",
       "category": "General"
     }
   ]
