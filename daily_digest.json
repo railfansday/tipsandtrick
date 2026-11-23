@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T23:16:16.125643",
-  "totalArticles": 195,
+  "generatedAt": "2026-11-23T05:54:20.312569",
+  "totalArticles": 196,
   "categoryBreakdown": {
-    "General": 193,
+    "General": 194,
     "Business & Policy": 2
   },
   "topSources": {
     "Remodelista": 41,
-    "Apartmenttherapy": 38,
+    "Apartmenttherapy": 39,
     "Witanddelight": 35,
     "Houzz": 34,
     "Chrislovesjulia": 12,
@@ -17,6 +17,12 @@
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
+    {
+      "id": 196,
+      "title": "Tech Report: This “Strange” Bathroom’s Reno Is a Must-See — the Change Is Astounding",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-this-strange-bathrooms-reno-is-a-must-see-the-change--196.html",
+      "category": "General"
+    },
     {
       "id": 195,
       "title": "Tech Report: 7 Things to Get Rid Of at 90, According to My Grandma",
@@ -69,12 +75,6 @@
       "id": 187,
       "title": "Tech Report: Pink Paint Refreshed a Kitchen’s “Generic” Veneered Cabinets",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-pink-paint-refreshed-a-kitchens-generic-veneered-cabi-187.html",
-      "category": "General"
-    },
-    {
-      "id": 186,
-      "title": "Before and After: 5 Living Areas With Stylish Fireplaces (11 photos)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/before-and-after-5-living-areas-with-stylish-fireplaces-11-photos-186.html",
       "category": "General"
     }
   ]
