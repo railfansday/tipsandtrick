@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T17:27:38.553135",
-  "totalArticles": 204,
+  "generatedAt": "2026-11-24T03:50:32.463572",
+  "totalArticles": 212,
   "categoryBreakdown": {
-    "General": 202,
+    "General": 210,
     "Business & Policy": 2
   },
   "topSources": {
-    "Apartmenttherapy": 45,
+    "Apartmenttherapy": 53,
     "Remodelista": 42,
     "Witanddelight": 35,
     "Houzz": 34,
@@ -18,6 +18,54 @@
   },
   "latestHeadlines": [
     {
+      "id": 212,
+      "title": "This 645-Square-Foot French Apartment Perfectly Balances Color and Calm",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-645-square-foot-french-apartment-perfectly-balances-color-an-212.html",
+      "category": "General"
+    },
+    {
+      "id": 211,
+      "title": "7th Avenue Opened Its First NYC Flagship — Here’s What You Need to Know",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/7th-avenue-opened-its-first-nyc-flagship-heres-what-you-need-to-k-211.html",
+      "category": "General"
+    },
+    {
+      "id": 210,
+      "title": "Tech Report: I’m on Turkey Duty This Year — This 2-In-1 Kitchen Find Is Going to Save Me So Much Cleanup Time",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-im-on-turkey-duty-this-year-this-2-in-1-kitchen-find--210.html",
+      "category": "General"
+    },
+    {
+      "id": 209,
+      "title": "I Transformed My Chaotic Linen Closet with These $30 Organizers",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/i-transformed-my-chaotic-linen-closet-with-these-30-organizers-209.html",
+      "category": "General"
+    },
+    {
+      "id": 208,
+      "title": "Tech Report: Don’t Bring Wine or Flowers to Parties — Bring This Practical Host Gift Instead",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-dont-bring-wine-or-flowers-to-parties-bring-this-prac-208.html",
+      "category": "General"
+    },
+    {
+      "id": 207,
+      "title": "Breaking: The 14 Best Cyber Monday Sofa Deals You Can Shop Right Now (Up to 45% Off!)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-the-14-best-cyber-monday-sofa-deals-you-can-shop-right-n-207.html",
+      "category": "General"
+    },
+    {
+      "id": 206,
+      "title": "This Newly introduced IKEA Organizer Adds Instant Storage Space to Your Walls",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-newly-introduced-ikea-organizer-adds-instant-storage-space-t-206.html",
+      "category": "General"
+    },
+    {
+      "id": 205,
+      "title": "Dramatic Red Paint and a Marble Sink Transformed This “Rotting” Bathroom",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/dramatic-red-paint-and-a-marble-sink-transformed-this-rotting-bat-205.html",
+      "category": "General"
+    },
+    {
       "id": 204,
       "title": "Thanksgiving, Remodelista Style: Table Inspiration and Hosting Help from the Archives",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/thanksgiving-remodelista-style-table-inspiration-and-hosting-help-204.html",
@@ -27,54 +75,6 @@
       "id": 203,
       "title": "Design SOS: 2 Reader Dining Rooms (Finally) Finished—One Honors Its 1900s Bones, The Other Throws All The Patterns at It",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/design-sos-2-reader-dining-rooms-finally-finishedone-honors-its-1-203.html",
-      "category": "General"
-    },
-    {
-      "id": 202,
-      "title": "“Dated” Tiles Covered Almost 75% of This Bathroom’s Walls Until a Refreshing Reno",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/dated-tiles-covered-almost-75-of-this-bathrooms-walls-until-a-ref-202.html",
-      "category": "General"
-    },
-    {
-      "id": 201,
-      "title": "5 Living Room Details Guests Will Definitely Notice (and Be Icked-Out By)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/5-living-room-details-guests-will-definitely-notice-and-be-icked--201.html",
-      "category": "General"
-    },
-    {
-      "id": 200,
-      "title": "Breaking: The Easy DIY Rinse Aid I Put in Every Dishwasher Cycle",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-the-easy-diy-rinse-aid-i-put-in-every-dishwasher-cycle-200.html",
-      "category": "General"
-    },
-    {
-      "id": 199,
-      "title": "No Sunlight? These Ultra-Realistic Faux Trees Bring Any Dark Corner to Life — and They’re 25% Off for Black Friday",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/no-sunlight-these-ultra-realistic-faux-trees-bring-any-dark-corne-199.html",
-      "category": "General"
-    },
-    {
-      "id": 198,
-      "title": "Industry News: I Finally Got My Hands on This Classic Home Sound System — and It’s Worth Every Penny",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-i-finally-got-my-hands-on-this-classic-home-sound-s-198.html",
-      "category": "General"
-    },
-    {
-      "id": 197,
-      "title": "Breaking: I Use This 80-Year-Old Trick to Bring the Perfect Host Gift",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-i-use-this-80-year-old-trick-to-bring-the-perfect-host-g-197.html",
-      "category": "General"
-    },
-    {
-      "id": 196,
-      "title": "Tech Report: This “Strange” Bathroom’s Reno Is a Must-See — the Change Is Astounding",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-this-strange-bathrooms-reno-is-a-must-see-the-change--196.html",
-      "category": "General"
-    },
-    {
-      "id": 195,
-      "title": "Tech Report: 7 Things to Get Rid Of at 90, According to My Grandma",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-7-things-to-get-rid-of-at-90-according-to-my-grandma-195.html",
       "category": "General"
     }
   ]
