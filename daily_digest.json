@@ -1,80 +1,81 @@
 {
-  "generatedAt": "2026-11-24T17:00:00.117789",
-  "totalArticles": 226,
+  "generatedAt": "2026-11-25T01:56:40.467672",
+  "totalArticles": 239,
   "categoryBreakdown": {
-    "General": 224,
+    "General": 236,
+    "EV & Auto": 1,
     "Business & Policy": 2
   },
   "topSources": {
-    "Apartmenttherapy": 62,
+    "Apartmenttherapy": 70,
     "Remodelista": 43,
-    "Houzz": 37,
+    "Houzz": 39,
     "Witanddelight": 35,
+    "Chrislovesjulia": 13,
     "Stylebyemilyhenderson": 13,
-    "Chrislovesjulia": 12,
-    "Jenniferrizzo": 10,
+    "Jenniferrizzo": 12,
     "Themakerista": 10,
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
     {
-      "id": 226,
-      "title": "Editors Swear by These 5 Realistic Pre-Lit Artificial Christmas Trees",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/editors-swear-by-these-5-realistic-pre-lit-artificial-christmas-t-226.html",
+      "id": 239,
+      "title": "Breaking: Turn an Old Trophy into an Ugly Christmas Sweater Award",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-turn-an-old-trophy-into-an-ugly-christmas-sweater-award-239.html",
       "category": "General"
     },
     {
-      "id": 225,
-      "title": "How to Get Your Home Clean for Holiday Hosting",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/how-to-get-your-home-clean-for-holiday-hosting-225.html",
+      "id": 238,
+      "title": "Industry News: This Couple's Lisbon Home Is Part Apartment, Part Ceramic Art Playground",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-this-couples-lisbon-home-is-part-apartment-part-cer-238.html",
       "category": "General"
     },
     {
-      "id": 224,
-      "title": "This Bathroom’s Walls Went From Lime Green, to All White, to the Dreamiest Blue",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-bathrooms-walls-went-from-lime-green-to-all-white-to-the-dre-224.html",
+      "id": 237,
+      "title": "This Super-Fluffy Brooklinen Blanket Is the Only One I Want on My Sofa",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-super-fluffy-brooklinen-blanket-is-the-only-one-i-want-on-my-237.html",
       "category": "General"
     },
     {
-      "id": 223,
-      "title": "How To Make Your Next Year Better/Prettier With Good Home Essentials (While Saving $$$)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/how-to-make-your-next-year-betterprettier-with-good-home-essentia-223.html",
+      "id": 236,
+      "title": "This Walmart Find Triples Your Storage Space in Every Room (It's $40 Off!)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-walmart-find-triples-your-storage-space-in-every-room-its-40-236.html",
       "category": "General"
     },
     {
-      "id": 222,
-      "title": "This Bestselling Mirror Is 50% Off for Black Friday (More Deals Dropped Too)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/this-bestselling-mirror-is-50-off-for-black-friday-more-deals-dro-222.html",
+      "id": 235,
+      "title": "Breaking: Sam’s Club Plus Members Can Now Get Walmart+ Completely Free — Here’s How",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-sams-club-plus-members-can-now-get-walmart-completely-fr-235.html",
       "category": "General"
     },
     {
-      "id": 221,
-      "title": "The Best Duvet Covers, According to Someone Who Wants a Five-Star Hotel Bed Feel",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/the-best-duvet-covers-according-to-someone-who-wants-a-five-star--221.html",
+      "id": 234,
+      "title": "Industry News: Faux Brass Botanical Air Dry Clay Ornaments",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-faux-brass-botanical-air-dry-clay-ornaments-234.html",
       "category": "General"
     },
     {
-      "id": 220,
-      "title": "10 Cozy Gifts That Will Make Your Home Feel Like a Hotel Stay (All on Black Friday Sale!)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/10-cozy-gifts-that-will-make-your-home-feel-like-a-hotel-stay-all-220.html",
+      "id": 233,
+      "title": "The Best Black Friday Deals at Lowe’s",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/the-best-black-friday-deals-at-lowes-233.html",
       "category": "General"
     },
     {
-      "id": 219,
-      "title": "How to Build a Holiday Porch Display That Looks Like You Hired a Pro",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/how-to-build-a-holiday-porch-display-that-looks-like-you-hired-a--219.html",
+      "id": 232,
+      "title": "These Retro-Inspired Towels Are So Chic, My Guests Keep Trying to Steal Them (and They’re on Black Friday Sale!)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/these-retro-inspired-towels-are-so-chic-my-guests-keep-trying-to--232.html",
       "category": "General"
     },
     {
-      "id": 218,
-      "title": "8 Self-Care Practices to See You Through the Holidays (8 photos)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/8-self-care-practices-to-see-you-through-the-holidays-8-photos-218.html",
+      "id": 231,
+      "title": "I Just Found the Scandi-Inspired Quilt of My Dreams, and It’s Surprisingly Affordable",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/i-just-found-the-scandi-inspired-quilt-of-my-dreams-and-its-surpr-231.html",
       "category": "General"
     },
     {
-      "id": 217,
-      "title": "Remodelista Reconnaissance: The Double Tablecloths at Raf’s NYC",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/remodelista-reconnaissance-the-double-tablecloths-at-rafs-nyc-217.html",
+      "id": 230,
+      "title": "Latest Update: 15 Bright and Welcoming Front Entries in Warm Neutral Palettes (15 photos)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-15-bright-and-welcoming-front-entries-in-warm-neutr-230.html",
       "category": "General"
     }
   ]
