@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-26T01:36:12.963159",
-  "totalArticles": 268,
+  "generatedAt": "2026-11-26T16:27:04.067991",
+  "totalArticles": 276,
   "categoryBreakdown": {
-    "General": 265,
+    "General": 273,
     "EV & Auto": 1,
     "Business & Policy": 2
   },
   "topSources": {
-    "Apartmenttherapy": 94,
-    "Remodelista": 44,
-    "Houzz": 42,
+    "Apartmenttherapy": 100,
+    "Remodelista": 45,
+    "Houzz": 43,
     "Witanddelight": 35,
     "Stylebyemilyhenderson": 14,
     "Chrislovesjulia": 13,
@@ -18,6 +18,54 @@
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
+    {
+      "id": 276,
+      "title": "Industry News: You Have 5 Days to Shop Quince’s Rare Black Friday Sale — Here Are the 16 Best Deals to Shop Day One",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-you-have-5-days-to-shop-quinces-rare-black-friday-s-276.html",
+      "category": "General"
+    },
+    {
+      "id": 275,
+      "title": "“Everyone Gushes” Over the Neutral, Elevated Tile in This Bathroom Renovation",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/everyone-gushes-over-the-neutral-elevated-tile-in-this-bathroom-r-275.html",
+      "category": "General"
+    },
+    {
+      "id": 274,
+      "title": "Match This One Detail to Make Open-Concept Homes Flow Better",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/match-this-one-detail-to-make-open-concept-homes-flow-better-274.html",
+      "category": "General"
+    },
+    {
+      "id": 273,
+      "title": "Forget a Tree Stand — This Upcycled Alternative Has Me Rethinking Everything",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/forget-a-tree-stand-this-upcycled-alternative-has-me-rethinking-e-273.html",
+      "category": "General"
+    },
+    {
+      "id": 272,
+      "title": "I Tried Poplight’s Cute Rechargeable Sconce — Here’s My Honest Review",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/i-tried-poplights-cute-rechargeable-sconce-heres-my-honest-review-272.html",
+      "category": "General"
+    },
+    {
+      "id": 271,
+      "title": "Breaking: Kitchen of the Week: An Artful Conversion of a Garage in Bath, England",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-kitchen-of-the-week-an-artful-conversion-of-a-garage-in--271.html",
+      "category": "General"
+    },
+    {
+      "id": 270,
+      "title": "The Best Bedding to Get on Sale This Year, According to a Shopping Editor",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/the-best-bedding-to-get-on-sale-this-year-according-to-a-shopping-270.html",
+      "category": "General"
+    },
+    {
+      "id": 269,
+      "title": "Two-Tone Kitchen Gains 72 Square Feet and a Major Island (12 photos)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/two-tone-kitchen-gains-72-square-feet-and-a-major-island-12-photo-269.html",
+      "category": "General"
+    },
     {
       "id": 268,
       "title": "I Tested One of West Elm’s Bestselling Coffee Tables — My Honest Review",
@@ -28,54 +76,6 @@
       "id": 267,
       "title": "Tech Report: I Tested Sabai Sofas and Chairs for You — Here’s What’s Worth Ordering",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-i-tested-sabai-sofas-and-chairs-for-you-heres-whats-w-267.html",
-      "category": "General"
-    },
-    {
-      "id": 266,
-      "title": "Here’s Everything to Shop From Our Favorite Furniture Brand’s Black Friday Sale (Everything Is Stain-Resistant!)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/heres-everything-to-shop-from-our-favorite-furniture-brands-black-266.html",
-      "category": "General"
-    },
-    {
-      "id": 265,
-      "title": "Latest Update: This NYC Renter Turned a Quirky Studio into a Colorful, Personality-Packed Home",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-this-nyc-renter-turned-a-quirky-studio-into-a-color-265.html",
-      "category": "General"
-    },
-    {
-      "id": 264,
-      "title": "Forget Weighted Blankets — This Find Transformed My Sleep (It’s on Sale!)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/forget-weighted-blankets-this-find-transformed-my-sleep-its-on-sa-264.html",
-      "category": "General"
-    },
-    {
-      "id": 263,
-      "title": "I Replaced My Ugly Under-Bed Bins with This Chic Storage Bed — and Even My Roommates Can’t Tell It Has Drawers",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/i-replaced-my-ugly-under-bed-bins-with-this-chic-storage-bed-and--263.html",
-      "category": "General"
-    },
-    {
-      "id": 262,
-      "title": "I Tried 4 Methods for Removing Oil Stains on Clothes, and the Winner Shocked Me",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/i-tried-4-methods-for-removing-oil-stains-on-clothes-and-the-winn-262.html",
-      "category": "General"
-    },
-    {
-      "id": 261,
-      "title": "We Tested (and Rated!) Every Bed Frame at West Elm — Here Are the Best Ones for Your Style and Space",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/we-tested-and-rated-every-bed-frame-at-west-elm-here-are-the-best-261.html",
-      "category": "General"
-    },
-    {
-      "id": 260,
-      "title": "We Tested (and Rated!) All the Dressers at West Elm — Here Are the Best to Suit Your Style and Space",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/we-tested-and-rated-all-the-dressers-at-west-elm-here-are-the-bes-260.html",
-      "category": "General"
-    },
-    {
-      "id": 259,
-      "title": "Latest Update: 18 Smart Book Storage Ideas to Maximize Small Spaces",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-18-smart-book-storage-ideas-to-maximize-small-space-259.html",
       "category": "General"
     }
   ]
