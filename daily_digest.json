@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-26T16:27:04.067991",
-  "totalArticles": 276,
+  "generatedAt": "2026-11-27T01:30:16.205462",
+  "totalArticles": 278,
   "categoryBreakdown": {
-    "General": 273,
+    "General": 275,
     "EV & Auto": 1,
     "Business & Policy": 2
   },
   "topSources": {
-    "Apartmenttherapy": 100,
+    "Apartmenttherapy": 102,
     "Remodelista": 45,
     "Houzz": 43,
     "Witanddelight": 35,
@@ -18,6 +18,18 @@
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
+    {
+      "id": 278,
+      "title": "Renter-Friendly DIYs Turned a “Boring Gray” Kitchen into a Bold, Red Nook",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/renter-friendly-diys-turned-a-boring-gray-kitchen-into-a-bold-red-278.html",
+      "category": "General"
+    },
+    {
+      "id": 277,
+      "title": "Lola Blankets’ Black Friday Sale Includes 50% Off Its Popular Throws",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/lola-blankets-black-friday-sale-includes-50-off-its-popular-throw-277.html",
+      "category": "General"
+    },
     {
       "id": 276,
       "title": "Industry News: You Have 5 Days to Shop Quince’s Rare Black Friday Sale — Here Are the 16 Best Deals to Shop Day One",
@@ -64,18 +76,6 @@
       "id": 269,
       "title": "Two-Tone Kitchen Gains 72 Square Feet and a Major Island (12 photos)",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/two-tone-kitchen-gains-72-square-feet-and-a-major-island-12-photo-269.html",
-      "category": "General"
-    },
-    {
-      "id": 268,
-      "title": "I Tested One of West Elm’s Bestselling Coffee Tables — My Honest Review",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/i-tested-one-of-west-elms-bestselling-coffee-tables-my-honest-rev-268.html",
-      "category": "General"
-    },
-    {
-      "id": 267,
-      "title": "Tech Report: I Tested Sabai Sofas and Chairs for You — Here’s What’s Worth Ordering",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-i-tested-sabai-sofas-and-chairs-for-you-heres-whats-w-267.html",
       "category": "General"
     }
   ]
