@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-27T01:30:16.205462",
-  "totalArticles": 278,
+  "generatedAt": "2026-11-27T16:12:07.805038",
+  "totalArticles": 285,
   "categoryBreakdown": {
-    "General": 275,
+    "General": 282,
     "EV & Auto": 1,
     "Business & Policy": 2
   },
   "topSources": {
-    "Apartmenttherapy": 102,
-    "Remodelista": 45,
-    "Houzz": 43,
+    "Apartmenttherapy": 106,
+    "Remodelista": 46,
+    "Houzz": 45,
     "Witanddelight": 35,
     "Stylebyemilyhenderson": 14,
     "Chrislovesjulia": 13,
@@ -18,6 +18,48 @@
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
+    {
+      "id": 285,
+      "title": "Breaking: Amazon Just Slashed Toshiba TV Prices for Black Friday — Including the Anti-Glare Screen That Fixed My Sunny Living Room",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-amazon-just-slashed-toshiba-tv-prices-for-black-friday-i-285.html",
+      "category": "General"
+    },
+    {
+      "id": 284,
+      "title": "Latest Update: This Rental’s Peel-and-Stick Tile Is the Design Choice I Want in Every Future Home",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-this-rentals-peel-and-stick-tile-is-the-design-choi-284.html",
+      "category": "General"
+    },
+    {
+      "id": 283,
+      "title": "Tech Report: How to Establish Trust and Build Good Relationships With Clients (6 photos)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-how-to-establish-trust-and-build-good-relationships-w-283.html",
+      "category": "General"
+    },
+    {
+      "id": 282,
+      "title": "Tech Report: The Costly Kitchen Reno Mistake I'll Never Make Again",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-the-costly-kitchen-reno-mistake-ill-never-make-again-282.html",
+      "category": "General"
+    },
+    {
+      "id": 281,
+      "title": "“An Air of Magic”: Scandi, Shaker, and Snug Lodgings in Bovina, New York",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/an-air-of-magic-scandi-shaker-and-snug-lodgings-in-bovina-new-yor-281.html",
+      "category": "General"
+    },
+    {
+      "id": 280,
+      "title": "4 Moody New Kitchens With Dark Cabinets and Details (4 photos)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/4-moody-new-kitchens-with-dark-cabinets-and-details-4-photos-280.html",
+      "category": "General"
+    },
+    {
+      "id": 279,
+      "title": "Industry News: 9 Deals from Anthropologie’s Black Friday Sale That You Absolutely Shouldn’t Miss",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-9-deals-from-anthropologies-black-friday-sale-that--279.html",
+      "category": "General"
+    },
     {
       "id": 278,
       "title": "Renter-Friendly DIYs Turned a “Boring Gray” Kitchen into a Bold, Red Nook",
@@ -34,48 +76,6 @@
       "id": 276,
       "title": "Industry News: You Have 5 Days to Shop Quince’s Rare Black Friday Sale — Here Are the 16 Best Deals to Shop Day One",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-you-have-5-days-to-shop-quinces-rare-black-friday-s-276.html",
-      "category": "General"
-    },
-    {
-      "id": 275,
-      "title": "“Everyone Gushes” Over the Neutral, Elevated Tile in This Bathroom Renovation",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/everyone-gushes-over-the-neutral-elevated-tile-in-this-bathroom-r-275.html",
-      "category": "General"
-    },
-    {
-      "id": 274,
-      "title": "Match This One Detail to Make Open-Concept Homes Flow Better",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/match-this-one-detail-to-make-open-concept-homes-flow-better-274.html",
-      "category": "General"
-    },
-    {
-      "id": 273,
-      "title": "Forget a Tree Stand — This Upcycled Alternative Has Me Rethinking Everything",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/forget-a-tree-stand-this-upcycled-alternative-has-me-rethinking-e-273.html",
-      "category": "General"
-    },
-    {
-      "id": 272,
-      "title": "I Tried Poplight’s Cute Rechargeable Sconce — Here’s My Honest Review",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/i-tried-poplights-cute-rechargeable-sconce-heres-my-honest-review-272.html",
-      "category": "General"
-    },
-    {
-      "id": 271,
-      "title": "Breaking: Kitchen of the Week: An Artful Conversion of a Garage in Bath, England",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-kitchen-of-the-week-an-artful-conversion-of-a-garage-in--271.html",
-      "category": "General"
-    },
-    {
-      "id": 270,
-      "title": "The Best Bedding to Get on Sale This Year, According to a Shopping Editor",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/the-best-bedding-to-get-on-sale-this-year-according-to-a-shopping-270.html",
-      "category": "General"
-    },
-    {
-      "id": 269,
-      "title": "Two-Tone Kitchen Gains 72 Square Feet and a Major Island (12 photos)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/two-tone-kitchen-gains-72-square-feet-and-a-major-island-12-photo-269.html",
       "category": "General"
     }
   ]
