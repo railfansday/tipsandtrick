@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-27T16:12:07.805038",
-  "totalArticles": 285,
+  "generatedAt": "2026-11-28T01:07:55.431286",
+  "totalArticles": 288,
   "categoryBreakdown": {
-    "General": 282,
+    "General": 285,
     "EV & Auto": 1,
     "Business & Policy": 2
   },
   "topSources": {
-    "Apartmenttherapy": 106,
+    "Apartmenttherapy": 109,
     "Remodelista": 46,
     "Houzz": 45,
     "Witanddelight": 35,
@@ -18,6 +18,24 @@
     "Jacquelynclark": 4
   },
   "latestHeadlines": [
+    {
+      "id": 288,
+      "title": "Anthropologie and Terrain Just Made Christmas Decorating Feel Magical Again",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/anthropologie-and-terrain-just-made-christmas-decorating-feel-mag-288.html",
+      "category": "General"
+    },
+    {
+      "id": 287,
+      "title": "Latest Update: This Luxuriously Soft Blanket Is Just Like That Insta-Famous Option, But Less Expensive (and It’s on Black Friday Sale!)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-this-luxuriously-soft-blanket-is-just-like-that-ins-287.html",
+      "category": "General"
+    },
+    {
+      "id": 286,
+      "title": "Latest Update: Instead of Replacing My Dark Wood Kitchen Cabinets, I Changed Everything Else",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-instead-of-replacing-my-dark-wood-kitchen-cabinets--286.html",
+      "category": "General"
+    },
     {
       "id": 285,
       "title": "Breaking: Amazon Just Slashed Toshiba TV Prices for Black Friday — Including the Anti-Glare Screen That Fixed My Sunny Living Room",
@@ -58,24 +76,6 @@
       "id": 279,
       "title": "Industry News: 9 Deals from Anthropologie’s Black Friday Sale That You Absolutely Shouldn’t Miss",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-9-deals-from-anthropologies-black-friday-sale-that--279.html",
-      "category": "General"
-    },
-    {
-      "id": 278,
-      "title": "Renter-Friendly DIYs Turned a “Boring Gray” Kitchen into a Bold, Red Nook",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/renter-friendly-diys-turned-a-boring-gray-kitchen-into-a-bold-red-278.html",
-      "category": "General"
-    },
-    {
-      "id": 277,
-      "title": "Lola Blankets’ Black Friday Sale Includes 50% Off Its Popular Throws",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/lola-blankets-black-friday-sale-includes-50-off-its-popular-throw-277.html",
-      "category": "General"
-    },
-    {
-      "id": 276,
-      "title": "Industry News: You Have 5 Days to Shop Quince’s Rare Black Friday Sale — Here Are the 16 Best Deals to Shop Day One",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-you-have-5-days-to-shop-quinces-rare-black-friday-s-276.html",
       "category": "General"
     }
   ]
