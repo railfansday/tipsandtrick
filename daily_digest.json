@@ -1,23 +1,65 @@
 {
-  "generatedAt": "2026-11-28T01:07:55.431286",
-  "totalArticles": 288,
+  "generatedAt": "2026-11-28T15:05:29.300093",
+  "totalArticles": 295,
   "categoryBreakdown": {
-    "General": 285,
+    "General": 292,
     "EV & Auto": 1,
     "Business & Policy": 2
   },
   "topSources": {
-    "Apartmenttherapy": 109,
-    "Remodelista": 46,
-    "Houzz": 45,
+    "Apartmenttherapy": 112,
+    "Remodelista": 47,
+    "Houzz": 46,
     "Witanddelight": 35,
-    "Stylebyemilyhenderson": 14,
+    "Stylebyemilyhenderson": 15,
     "Chrislovesjulia": 13,
     "Jenniferrizzo": 12,
     "Themakerista": 10,
-    "Jacquelynclark": 4
+    "Jacquelynclark": 5
   },
   "latestHeadlines": [
+    {
+      "id": 295,
+      "title": "Whales: Giants of the Ocean",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/whales-giants-of-the-ocean-295.html",
+      "category": "General"
+    },
+    {
+      "id": 294,
+      "title": "Ditch Flowers — This Is the Holiday Hosting Gift I’ll Be Bringing to Every Party",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/ditch-flowers-this-is-the-holiday-hosting-gift-ill-be-bringing-to-294.html",
+      "category": "General"
+    },
+    {
+      "id": 293,
+      "title": "I’m a Bookworm, and This Unexpected Kitchen Find Is My Latest Favorite Thing",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/im-a-bookworm-and-this-unexpected-kitchen-find-is-my-latest-favor-293.html",
+      "category": "General"
+    },
+    {
+      "id": 292,
+      "title": "Extremely Comfortable And Festive Holiday Party Outfit Ideas",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/extremely-comfortable-and-festive-holiday-party-outfit-ideas-292.html",
+      "category": "General"
+    },
+    {
+      "id": 291,
+      "title": "Breaking: Current Obsessions: Après Feast",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-current-obsessions-aprs-feast-291.html",
+      "category": "General"
+    },
+    {
+      "id": 290,
+      "title": "7 Ways to Stop Tidying Up for a Healthier Garden (8 photos)",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/7-ways-to-stop-tidying-up-for-a-healthier-garden-8-photos-290.html",
+      "category": "General"
+    },
+    {
+      "id": 289,
+      "title": "Industry News: I Replaced My 2015 Kindle with the New Amazon Kindle Aluminum",
+      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-i-replaced-my-2015-kindle-with-the-new-amazon-kindl-289.html",
+      "category": "General"
+    },
     {
       "id": 288,
       "title": "Anthropologie and Terrain Just Made Christmas Decorating Feel Magical Again",
@@ -34,48 +76,6 @@
       "id": 286,
       "title": "Latest Update: Instead of Replacing My Dark Wood Kitchen Cabinets, I Changed Everything Else",
       "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-instead-of-replacing-my-dark-wood-kitchen-cabinets--286.html",
-      "category": "General"
-    },
-    {
-      "id": 285,
-      "title": "Breaking: Amazon Just Slashed Toshiba TV Prices for Black Friday — Including the Anti-Glare Screen That Fixed My Sunny Living Room",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/breaking-amazon-just-slashed-toshiba-tv-prices-for-black-friday-i-285.html",
-      "category": "General"
-    },
-    {
-      "id": 284,
-      "title": "Latest Update: This Rental’s Peel-and-Stick Tile Is the Design Choice I Want in Every Future Home",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/latest-update-this-rentals-peel-and-stick-tile-is-the-design-choi-284.html",
-      "category": "General"
-    },
-    {
-      "id": 283,
-      "title": "Tech Report: How to Establish Trust and Build Good Relationships With Clients (6 photos)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-how-to-establish-trust-and-build-good-relationships-w-283.html",
-      "category": "General"
-    },
-    {
-      "id": 282,
-      "title": "Tech Report: The Costly Kitchen Reno Mistake I'll Never Make Again",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/tech-report-the-costly-kitchen-reno-mistake-ill-never-make-again-282.html",
-      "category": "General"
-    },
-    {
-      "id": 281,
-      "title": "“An Air of Magic”: Scandi, Shaker, and Snug Lodgings in Bovina, New York",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/an-air-of-magic-scandi-shaker-and-snug-lodgings-in-bovina-new-yor-281.html",
-      "category": "General"
-    },
-    {
-      "id": 280,
-      "title": "4 Moody New Kitchens With Dark Cabinets and Details (4 photos)",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/4-moody-new-kitchens-with-dark-cabinets-and-details-4-photos-280.html",
-      "category": "General"
-    },
-    {
-      "id": 279,
-      "title": "Industry News: 9 Deals from Anthropologie’s Black Friday Sale That You Absolutely Shouldn’t Miss",
-      "url": "https://railfansday.github.io/tipsandtrick/artikel/industry-news-9-deals-from-anthropologies-black-friday-sale-that--279.html",
       "category": "General"
     }
   ]
